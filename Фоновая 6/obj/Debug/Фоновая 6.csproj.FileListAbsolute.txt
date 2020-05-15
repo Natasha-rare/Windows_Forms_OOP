@@ -1,0 +1,10 @@
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\bin\Debug\Фоновая 6.exe.config
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\bin\Debug\Фоновая 6.exe
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\bin\Debug\Фоновая 6.pdb
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая 6.csprojAssemblyReference.cache
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая_6.Form1.resources
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая_6.Properties.Resources.resources
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая 6.csproj.GenerateResource.cache
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая 6.csproj.CoreCompileInputs.cache
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая 6.exe
+C:\Users\nattt\coding\Windows_Forms_OOP\Фоновая 6\obj\Debug\Фоновая 6.pdb
