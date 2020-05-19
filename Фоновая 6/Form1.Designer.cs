@@ -52,7 +52,7 @@
             this.button2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button2.Font = new System.Drawing.Font("Lucida Handwriting", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2.Location = new System.Drawing.Point(35, 30);
+            this.button2.Location = new System.Drawing.Point(111, 176);
             this.button2.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(159, 144);
