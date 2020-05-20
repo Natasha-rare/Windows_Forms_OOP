@@ -12,6 +12,7 @@ namespace Практика_17
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
@@ -27,7 +28,15 @@ namespace Практика_17
         {
             if (ToTen.Checked)
             {
-
+                Result.Text = Convert.ToString(Convertion.Convert_To_Ten(Convert.ToInt32(Binary.Text)));
+            }
+            else if (ToEight.Checked)
+            {
+                Result.Text = Convert.ToString(Convertion.Convert_To_Eight(Convert.ToInt32(Binary.Text)));
+            }
+            else if (ToSixteen.Checked)
+            {
+                Result.Text = Convert.ToString(Convertion.Convert_To_Sixteen(Convert.ToInt32(Binary.Text)));
             }
         }
     }
