@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.Binary = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -38,6 +39,8 @@
             this.ToEight = new System.Windows.Forms.RadioButton();
             this.Do = new System.Windows.Forms.Button();
             this.Exit = new System.Windows.Forms.Button();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.choose.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,7 +79,7 @@
             this.Result.AccessibleName = "Result";
             this.Result.BackColor = System.Drawing.Color.LightGreen;
             this.Result.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.Result.Location = new System.Drawing.Point(567, 82);
+            this.Result.Location = new System.Drawing.Point(567, 75);
             this.Result.Margin = new System.Windows.Forms.Padding(4);
             this.Result.Name = "Result";
             this.Result.ReadOnly = true;
@@ -152,12 +155,22 @@
             this.Exit.UseVisualStyleBackColor = false;
             this.Exit.Click += new System.EventHandler(this.Exit_Click);
             // 
+            // progressBar1
+            // 
+            this.progressBar1.ForeColor = System.Drawing.Color.DarkMagenta;
+            this.progressBar1.Location = new System.Drawing.Point(340, 75);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(205, 38);
+            this.progressBar1.TabIndex = 7;
+            this.progressBar1.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(845, 356);
+            this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.Exit);
             this.Controls.Add(this.Do);
             this.Controls.Add(this.choose);
@@ -188,6 +201,8 @@
         private System.Windows.Forms.RadioButton ToEight;
         private System.Windows.Forms.Button Do;
         private System.Windows.Forms.Button Exit;
+        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

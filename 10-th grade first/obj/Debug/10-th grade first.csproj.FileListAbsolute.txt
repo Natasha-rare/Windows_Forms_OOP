@@ -1,0 +1,10 @@
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\bin\Debug\10-th grade first.exe.config
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\bin\Debug\10-th grade first.exe
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\bin\Debug\10-th grade first.pdb
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\10-th grade first.csprojAssemblyReference.cache
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\_10_th_grade_first.Form1.resources
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\_10_th_grade_first.Properties.Resources.resources
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\10-th grade first.csproj.GenerateResource.cache
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\10-th grade first.csproj.CoreCompileInputs.cache
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\10-th grade first.exe
+C:\Users\nattt\coding\Windows_Forms_OOP\10-th grade first\obj\Debug\10-th grade first.pdb
